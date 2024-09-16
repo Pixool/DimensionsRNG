@@ -31,7 +31,7 @@ Auras2.sort(key=lambda x: x[1], reverse=True)
 
 segments = []
 total = 0
-luckboost = 3  # increase value to increase luck
+luckboost = 1  # increase value to increase luck
 for _, data in Auras2:
     segments.append((total, total + data, _))
     total += data
