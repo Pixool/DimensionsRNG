@@ -13,3 +13,8 @@ Current features:
  - Index
  - Loading and Saving
  - Luckboost and shop coming soon!!
+
+Features to come:
+ - Luckboost
+ - Shop
+ - More Dimensions 50+
