@@ -1,5 +1,6 @@
 # DimensionsRNG
 Latest: Version 0.6
+-- Development version can be unstable but has new developments/features
 
 This is DimensionsRNG, a small little project i've been working on when i'm bored, have fun!
 Please do not steal :(
