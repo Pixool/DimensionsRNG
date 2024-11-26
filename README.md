@@ -18,8 +18,7 @@ Current features:
  - Inventory
  - Index
  - Loading and Saving
- - Luckboost and shop coming soon!!
+ - Shop coming soon!!
 
 Features to come:
- - Luckboost
  - Shop
